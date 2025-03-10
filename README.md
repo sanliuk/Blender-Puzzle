@@ -34,7 +34,6 @@ This project is distributed under the **MIT License**, so feel free to use and e
 - 🎮 **Games & Info**: [sanliuk.com](https://sanliuk.com/)  
 - 🎥 **YouTube**: [Official San Liuk](https://www.youtube.com/channel/UCgbG6HYcITXhZ0W35lUvFbA)  
 - 💬 **Discord Server**: [Join here](https://discord.gg/wtxXtqSKJr)  
-- 🔗 **Discord Invite**: [discord.com/invite/8GBkm252cS](https://discord.com/invite/8GBkm252cS)  
 - 🐦 **Twitter/X**: @SanLiuk  
 
 ---

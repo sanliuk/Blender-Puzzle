@@ -23,7 +23,7 @@ If you've ever wanted to create a 3D puzzle in Blender without dealing with a to
 
 ## 💖 Support Me
 This project is **free**, but if you'd like to support me, you can! 
-- **Download some of my games**: [Click here!](https://sanliuk.com/app) 🎮
+- **Download some of my games**: [Click here!](https://sanliuk.com/app) 🎮 or [Click here!](https://sanliuk.com/3TacToe) 
 - **Donate via PayPal**: eraltdet@gmail.com ☕
 
 ## 📜 License
